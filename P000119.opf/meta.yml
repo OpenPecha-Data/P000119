@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: ༄༅། །བདེ་བར་གཤེགས་པའི་བསྟན་པའི་གསལ་བྱེད་ཆོས་ཀྱི་འབྱུང་གནས་གསུང་རབ་རིན་པོ་ཆེའི་མཛོད་ཅེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། བུ་སྟོན་རིན་ཆེན་གྲུབ།
+  sku: LEK-PHI-061
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: Treasury of the Precious Dharma:An Elucidation of the Precious Origin of the
+      Buddhadharma
+    bo: བདེ་བར་གཤེགས་པའི་བསྟན་པའི་གསལ་བྱེད་ཆོས་ཀྱི་འབྱུང་གནས་གསུང་རབ་རིན་པོ་ཆེའི་མཛོད་ཅེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Philosophy Series–  Book 61
+    bo: ལེགས་བཤད་གླིང་རིགས་པའི་གཞུང་ལུགས།–  དེབ། ༦༡
+  author:
+    en: Buton Rinchen Drub
+    bo: བུ་སྟོན་རིན་ཆེན་གྲུབ།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-PHI-061
+  category:
+    en: History
+    bo: ལོ་རྒྱུས།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-PHI-061.epub
+  description:
+    en: ''
+    bo: ''
