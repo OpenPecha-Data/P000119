@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000119
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བདེ་བར་གཤེགས་པའི་བསྟན་པའི་གསལ་བྱེད་ཆོས་ཀྱི་འབྱུང་གནས་གསུང་རབ་རིན་པོ་ཆེའི་མཛོད་ཅེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། བུ་སྟོན་རིན་ཆེན་གྲུབ།
-  sku: LEK-PHI-061
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: LEK-PHI-061
 web_metadata:
   title:
     en: Treasury of the Precious Dharma:An Elucidation of the Precious Origin of the
